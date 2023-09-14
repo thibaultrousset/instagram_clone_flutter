@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "148583762710",
+    "project_id": "instagram-clone-course-oodrive",
+    "storage_bucket": "instagram-clone-course-oodrive.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148583762710:android:de0dc3bd3b75249f269e37",
+        "android_client_info": {
+          "package_name": "se.pixolity.instagram_clone_course2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN43-bmYxv7uauF79yGqRDNv9vnFumtkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
